@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arts</string>
+    <string name="art_title">Artwork Title</string>
+    <string name="artist_year">Artwork Artist (Year)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
